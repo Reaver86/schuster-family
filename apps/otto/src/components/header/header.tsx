@@ -26,7 +26,7 @@ export default component$(() => {
             href="https://qwik.builder.io/examples/introduction/hello-world/"
             target="_blank"
           >
-            Examples
+            Schmexamples
           </a>
         </li>
         <li>
